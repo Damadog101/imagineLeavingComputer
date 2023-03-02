@@ -1,0 +1,12 @@
+body {
+    margin: 0; 
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1 {
+    width: 100%;
+    background-color: aquamarine;
+    color: gold;
+}
